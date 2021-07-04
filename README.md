@@ -1,7 +1,7 @@
 # Loja-tênis
 Interfase de uma loja de tênis.
 <br>
-Intuito da criação do aplicativo foi aperfeiçoar as minhas habilidades no React Native.
+Intuito da criação do aplicativo foi testar as minhas habilidades no React Native.
 <br>
 ## Tecnologias
 <br>
